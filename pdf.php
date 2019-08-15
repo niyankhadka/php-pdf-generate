@@ -33,7 +33,7 @@ if(isset($_POST['submit'])){
     $pdf->SetFont('Arial','B',16);
     
     //setting the logo ( x , y axis , width height , image trype)
-    $pdf->Image('https://www.freetutorials.eu/wp-content/uploads/2017/07/freetutorials.us_-1.png',80,5,40,10,'PNG');
+    $pdf->Image('https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png',80,5,40,10,'PNG');
     $pdf->Ln(5);
     
     //Cell( width , height , text , border 0: No Border / 1: Bordered , end line 0: Continue / 1: New Line , align: 'L' / 'R' / 'C' )
