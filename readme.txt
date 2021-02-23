@@ -1,8 +1,7 @@
 === Pdf Generate ===
 
 Contributors: niyankhadka
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Version: 1.0.0
 
 
 == Description ==
@@ -14,7 +13,8 @@ This is the sample for generating pdf using php. You can edit and reuse the code
 
 == License ==
 
-This is distributed under the terms of the GNU GPL
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 == Credits ==
