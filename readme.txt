@@ -14,7 +14,7 @@ This is the sample for generating pdf using php. You can edit and reuse the code
 
 == License ==
 
-Grace Mag Pro is distributed under the terms of the GNU GPL
+This is distributed under the terms of the GNU GPL
 
 
 == Credits ==
